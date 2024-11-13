@@ -1,0 +1,14 @@
+# QUÉ ES
+
+Script sencillo para añadir netbeans al listado de programas en la máquina de ubuntu 20
+En la máquina de las clases está instalado netbeans en ~/.local/share/applications/Netbeans
+Cambiar ruta si procede
+
+# Instalación
+
+git clone 
+cd 
+chmod +x netbeans_shortcut.sh
+./netbeans_shortcut.sh
+
+Aparecerá la entrada Netbeans en las aplicaciones tras esto y se añadirá a favoritos
