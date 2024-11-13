@@ -6,8 +6,8 @@ Cambiar ruta si procede
 
 # Instalación
 
-git clone 
-cd 
+git clone https://github.com/manuelsantosiglesias/Netbeans-Script.git
+cd Netbeans-Script/
 chmod +x netbeans_shortcut.sh
 ./netbeans_shortcut.sh
 
